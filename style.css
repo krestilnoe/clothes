@@ -424,4 +424,7 @@ footer {
   #products .item .text {
     padding: 0;
   }
+  .header-text p {
+    margin-top: 0;
+  }
 }
